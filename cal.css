@@ -1,0 +1,44 @@
+.button{
+    background-color: rgb(110, 110, 110);
+    border: none;
+    color: black;
+    padding:20px ;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block ;
+    font-size: medium;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.buttonDiv{                  /* For '/' symbol */
+    border-radius: 50%;
+    background-color: rgb(235, 167, 40);
+    color: black;
+}
+.buttonclr,.buttonab,.button01{
+    background-color: silver;
+
+}
+
+.buttonMul{                 /* For '*' symbol */
+    border-radius: 50%;
+    background-color: rgb(235, 167, 40);
+    color: black;    
+}
+.button-{
+    border-radius: 50%;
+    background-color: rgb(235, 167, 40);
+    color: black;
+}
+.button15{
+    border-radius: 50%;
+    background-color: rgb(235, 167, 40);
+    color: black;
+}
+.buttonC{
+    border-radius: 50%;
+    background-color: rgb(235, 167, 40);
+    color: black;
+}
